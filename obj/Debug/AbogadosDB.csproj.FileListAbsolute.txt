@@ -8,3 +8,5 @@ A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\Ab
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.csproj.CoreCompileInputs.cache
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.exe
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.pdb
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Abogados.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Clientes.resources

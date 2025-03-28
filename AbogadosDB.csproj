@@ -52,6 +52,30 @@
     <Compile Include="Abogados.Designer.cs">
       <DependentUpon>Abogados.cs</DependentUpon>
     </Compile>
+    <Compile Include="Audiencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Audiencias.Designer.cs">
+      <DependentUpon>Audiencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Casos Abogados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Casos Abogados.Designer.cs">
+      <DependentUpon>Casos Abogados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Casos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Casos.Designer.cs">
+      <DependentUpon>Casos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +86,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Abogados.resx">
       <DependentUpon>Abogados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Audiencias.resx">
+      <DependentUpon>Audiencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Casos Abogados.resx">
+      <DependentUpon>Casos Abogados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Casos.resx">
+      <DependentUpon>Casos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
