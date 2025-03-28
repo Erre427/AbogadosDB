@@ -21,5 +21,40 @@ namespace AbogadosDB
         {
 
         }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAbogados_Click(object sender, EventArgs e)
+        {
+            Abogados abogados = new Abogados();
+            abogados.Show();
+        }
+
+        private void btnClientes_Click(object sender, EventArgs e)
+        {
+            Clientes clientes = new Clientes();
+            clientes.Show();
+        }
+
+        private void btnCasos_Click(object sender, EventArgs e)
+        {
+            Casos casos = new Casos();
+            casos.Show();
+        }
+
+        private void btnAudiencias_Click(object sender, EventArgs e)
+        {
+            Audiencias audiencias = new Audiencias();
+            audiencias.Show();
+        }
+
+        private void btnCasosAbogados_Click(object sender, EventArgs e)
+        {
+            Casos_Abogados casosAbogados = new Casos_Abogados();
+            casosAbogados.Show();
+        }
     }
 }

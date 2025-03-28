@@ -10,3 +10,6 @@ A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\Ab
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.pdb
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Abogados.resources
 A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Clientes.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Audiencias.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Casos_Abogados.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Casos.resources
