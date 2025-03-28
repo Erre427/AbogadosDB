@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace AbogadosDB
 {
-    public partial class Form1 : Form
+    public partial class Abogados : Form
     {
-        public Form1()
+        public Abogados()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

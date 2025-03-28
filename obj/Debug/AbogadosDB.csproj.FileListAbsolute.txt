@@ -1,0 +1,10 @@
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\bin\Debug\AbogadosDB.exe.config
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\bin\Debug\AbogadosDB.exe
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\bin\Debug\AbogadosDB.pdb
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.csproj.AssemblyReference.cache
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Form1.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.Properties.Resources.resources
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.csproj.GenerateResource.cache
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.csproj.CoreCompileInputs.cache
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.exe
+A:\Topicos Avanzados de Programacion\Unidad 2\AbogadosDB\AbogadosDB\obj\Debug\AbogadosDB.pdb
